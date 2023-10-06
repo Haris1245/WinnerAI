@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="185.34593mm"
+   viewBox="0 0 210 185.34593"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="4.2760944"
+   inkscape:export-ydpi="4.2760944"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:export-bgcolor="#3e3e3e00"
+     inkscape:zoom="1.0877315"
+     inkscape:cx="396.69716"
+     inkscape:cy="606.30771"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch4"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#d4aa00;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch4"
+       id="linearGradient4"
+       x1="114.5212"
+       y1="99.553986"
+       x2="132.37024"
+       y2="99.553986"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-68.956039,-83.679268)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100.247px;line-height:0;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.59843"
+       x="16.319571"
+       y="134.11501"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100.247px;line-height:0;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.59843"
+         x="16.319571"
+         y="134.11501">W</tspan></text>
+  </g>
+  <g
+     id="g3"
+     inkscape:groupmode="layer">
+    <g
+       id="g12"
+       transform="matrix(2.681198,0,0,2.5408628,8.8518173,37.315038)">
+      <rect
+         style="fill:#d4aa00;fill-opacity:1;stroke-width:0.315"
+         id="rect3"
+         width="5.108108"
+         height="15.567568"
+         x="51.692585"
+         y="16.293724"
+         ry="2.1891892"
+         rx="0.48648649" />
+      <g
+         id="g2"
+         transform="matrix(0.88990833,0,0,0.88990833,-50.111946,-71.765058)"
+         style="fill:#28170b">
+        <ellipse
+           style="fill:#28170b;fill-opacity:1;stroke-width:0.363856"
+           id="path1"
+           cx="117.24324"
+           cy="118.7027"
+           rx="13.135135"
+           ry="4.3783784" />
+        <g
+           id="g1"
+           style="fill:#28170b">
+          <rect
+             style="fill:#28170b;fill-opacity:1;stroke-width:0.332209"
+             id="rect1"
+             width="26.513514"
+             height="5.5945945"
+             x="104.10812"
+             y="118.61733"
+             ry="2.7972972"
+             rx="0" />
+        </g>
+      </g>
+      <rect
+         style="fill:#aa4400;fill-opacity:1;stroke-width:0.2305"
+         id="rect2"
+         width="12.45946"
+         height="3.203861"
+         x="48.372555"
+         y="32.749908"
+         ry="1.6019305"
+         rx="0.60072392" />
+      <path
+         id="path4"
+         style="fill:url(#linearGradient4);fill-opacity:1;stroke-width:0.44352"
+         d="M 63.41422,10.888211 H 45.565172 a 8.9298344,10.094595 0 0 0 8.921941,9.97303 8.9298344,10.094595 0 0 0 8.927107,-9.97303 z"
+         inkscape:transform-center-x="2.03e-06"
+         inkscape:transform-center-y="0.972975" />
+    </g>
+  </g>
+</svg>
